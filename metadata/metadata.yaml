@@ -10,9 +10,9 @@ pdf_generation: true
 pdf_name: jane-doe.pdf
 
 #Metadata
-name: Jane Doe
+name: Jesus Carlos
 title: Software Engineer
-resume_link: disaa0.github.io/web-resume/
+resume_link: JCLV2002.github.io/cv/
 facts:
     - title: Residence
       url: https://maps.app.goo.gl/UCupEfpjguBUrz1D9
