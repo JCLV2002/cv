@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://json.schemastore.org/yamllint.json
 
 #Configuration
-template: modern.html #Located in ./templates
+template: formal.html #Located in ./templates
 use_photo: false
 photo: photo.png
 use_favicon: true
