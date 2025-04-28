@@ -15,21 +15,21 @@ title: Software Engineer
 resume_link: JCLV2002.github.io/cv/
 facts:
     - title: Residence
-      url: https://maps.app.goo.gl/UCupEfpjguBUrz1D9
+      url: https://maps.app.goo.gl/P56L1R5n3HbonARW9
       icon: <i class="fa fa-home fact-icon"></i>
-      text: New York
+      text: Hermosillo, Sonora, Mexico
     - title: GitHub
-      url: https://github.com/janedoe
+      url: https://github.com/JCLV2002
       icon: <i class="fa-brands fa-github fact-icon"></i>
-      text: jane_doe
+      text: JCLV2002
     - title: LinkedIn
       url: https://www.linkedin.com/in/janedoe/
       icon: <i class="fa-brands fa-linkedin fact-icon"></i>
       text: jane_doe
     - title: Email
-      url: mailto:janedoe@mail.com
+      url: mailto:jesuscarloslv@gmail.com
       icon: <i class="fa fa-envelope fact-icon"></i>
-      text: jane@mail.com
+      text: jesuscarloslv@gmail.com
 
 jobs:
   - position: Software Developer
