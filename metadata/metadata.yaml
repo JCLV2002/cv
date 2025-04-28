@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://json.schemastore.org/yamllint.json
 
 #Configuration
-template: formal.html #Located in ./templates
+template: modern.html #Located in ./templates
 use_photo: false
 photo: photo.png
 use_favicon: true
@@ -10,7 +10,7 @@ pdf_generation: true
 pdf_name: jane-doe.pdf
 
 #Metadata
-name: Jesus Carlos
+name: Jesus Carlos Lopez Villalba
 title: Software Engineer
 resume_link: JCLV2002.github.io/cv/
 facts:
