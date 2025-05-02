@@ -31,66 +31,64 @@ facts:
       icon: <i class="fa fa-envelope fact-icon"></i>
       text: jesuscarloslv@gmail.com
 
-jobs:
-  - position: Software Developer
-    period: Jun 2020 - Present
-    company: Tech Solutions Inc.
-    bullet_points:
-      - Developed and maintained web applications using Python and Django.
-      - Collaborated with cross-functional teams to design, develop, and implement new features.
-      - Implemented automated testing and continuous integration using Jenkins.
-    technology:
+trabajos:
+  - puesto: Desarrollador de Software
+    periodo: Jun 2020 - Presente
+    empresa: Tech Solutions Inc.
+    responsabilidades:
+      - Desarrollé y mantuve aplicaciones web utilizando Python y Django.
+      - Colaboré con equipos multidisciplinarios para diseñar, desarrollar e implementar nuevas funciones.
+      - Implementé pruebas automatizadas e integración continua utilizando Jenkins.
+    tecnologias:
       - Python
       - Django
       - Jenkins
-  - position: Junior Developer
-    period: Jan 2018 - May 2020
-    company: CodeCraft
-    bullet_points:
-      - Assisted in the development of internal tools using JavaScript and Node.js.
-      - Participated in code reviews and provided constructive feedback to peers.
-      - Helped maintain code quality and organization.
-    technology:
+
+  - puesto: Desarrollador Junior
+    periodo: Ene 2018 - May 2020
+    empresa: CodeCraft
+    responsabilidades:
+      - Asistí en el desarrollo de herramientas internas utilizando JavaScript y Node.js.
+      - Participé en revisiones de código y ofrecí retroalimentación constructiva a los compañeros.
+      - Ayudé a mantener la calidad y organización del código.
+    tecnologias:
       - JavaScript
       - Node.js
       - Git
 
-educations:
-    - degree: Bachelor of Science in Computer Science
-      period: Sep 2014 - Jun 2018
-      university: University of Example
-      projects: 
-        # - title: Inventory Management System
-        #   skills: ['MongoDB', 'Python', 'React']
-        #   link: '<a href="https://github.com/user/repo"> <i class="fa-brands fa-github"></i> </a>'
-        #   contents: 
-        #     I developed an inventory management system for a local business, improving their inventory tracking and reporting capabilities.
-        # - title: Personal Portfolio Website
-        #   position: Developer
-        #   period: Sep 2016 - Dec 2016
-        #   skills: ['Python', 'Flask']
-        #   link: '<a href="https://github.com/user/repo"><i class="fa-brands fa-github"></i></a>'
-        #   contents:
-        #     I developed my personal portfolio website, showcasing my projects and skills.
-      relevant_courses: CS 101 - Introduction to CS, CS 201 - Data Structures and Algorithms, CS 301 - Computer Organization and Architecture.
+educacion:
+  - grado: Licenciatura en Ciencias de la Computación
+    periodo: Sep 2014 - Jun 2018
+    universidad: Universidad de Ejemplo
+    proyectos:
+      - titulo: Sistema de Gestión de Inventario
+        habilidades: ['MongoDB', 'Python', 'React']
+        enlace: '<a href="https://github.com/user/repo"> <i class="fa-brands fa-github"></i> </a>'
+        descripcion: >
+          Desarrollé un sistema de gestión de inventario para un negocio local, mejorando el seguimiento y los reportes de inventario.
+    cursos_relevantes:
+      - CS 101 - Introducción a la Computación
+      - CS 201 - Estructuras de Datos y Algoritmos
+      - CS 301 - Organización y Arquitectura de Computadoras
 
-personal_projects:
-    - title: Personal Website
-      period: January 2023 - Present
-      description: A responsive website designed to present my work and projects. This website is built using HTML, CSS, and JavaScript, and is designed to be responsive and accessible on various devices.
-      skills: ['HTML', 'CSS', 'JavaScript']
-      link: '<a href="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"><i class="fa-brands fa-github"></i></a>'
+proyectos_personales:
+  - titulo: Sitio Web Personal
+    periodo: Enero 2023 - Presente
+    descripcion: >
+      Un sitio web responsivo diseñado para presentar mis trabajos y proyectos. Está desarrollado con HTML, CSS y JavaScript, y es accesible desde varios dispositivos.
+    habilidades: ['HTML', 'CSS', 'JavaScript']
+    enlace: '<a href="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"><i class="fa-brands fa-github"></i></a>'
 
-skills:
-    - Strong problem-solving skills and ability to work in a team environment.
-    - Eagerness to acquire new skills and knowledge.
-    - Excellent communication and collaboration skills.
-    - Experience in agile development methodologies.
+habilidades:
+  - Fuertes habilidades para resolver problemas y trabajar en equipo.
+  - Disposición para aprender nuevas habilidades y conocimientos.
+  - Excelentes habilidades de comunicación y colaboración.
+  - Experiencia en metodologías ágiles de desarrollo.
 
-tech_skills:
-    - title: Programming Languages
-      text: Python, Java, C++
-    - title: Version Control
-      text: Git, GitHub
-    - title: Languages
-      text: 'Spanish, English'
+habilidades_tecnicas:
+  - titulo: Lenguajes de Programación
+    texto: Python, Java, C++
+  - titulo: Control de Versiones
+    texto: Git, GitHub
+  - titulo: Idiomas
+    texto: Español, Inglés
